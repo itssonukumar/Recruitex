@@ -1,0 +1,8 @@
+RecruiteX
+1- .node-modules : Libraries
+2- index.js : Entry point
+3- Models : All Tables/Collection
+4- Routes : API URL
+5- package-lock.json : dev dependencies
+6- package.json : All informations
+7- Uploads : Store Files
